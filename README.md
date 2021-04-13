@@ -1,4 +1,4 @@
-<img src="TDO_Ottawa.jpg" width="100%" height="auto">
+<img src="TDO_Ottawa_banner.jpg" width="100%" height="auto">
 
 ### Hi there 👋
 
