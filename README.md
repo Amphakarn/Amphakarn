@@ -1,3 +1,5 @@
+<img src="TDO_Ottawa.jpg" width="100%" height="auto">
+
 ### Hi there 👋
 
 <!--
